@@ -19,17 +19,7 @@ int main()
     int cases;
     cin>>cases;
     while(cases--){
-        string str;
-        cin>>str;
-        string code = "codeforces";
-        int count = 0;
-        for(int i = 0; i<10; i++){
-            if(code[i]!= str[i]){
-                count++;
-            }
-        }
-        cout<<count<<endl;
-
+        
     }
     return 0;
 }
