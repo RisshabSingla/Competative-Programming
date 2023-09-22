@@ -1,1 +1,0 @@
-{"name":"Local: TestCases","url":"/Users/risshabsingla/Desktop/Competative Programming/TestCases.cpp","tests":[{"id":1683127058187,"input":"3\n1 2 3\n0 0 2\n87 986 15","output":"4\n1\n64"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/risshabsingla/Desktop/Competative Programming/TestCases.cpp","group":"local","local":true}
